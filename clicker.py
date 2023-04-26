@@ -2,6 +2,7 @@ import pyautogui
 import keyboard
 
 #finder pos:
+
 def pos_finder():
     while True:
         x, y = pyautogui.position()
