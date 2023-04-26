@@ -18,7 +18,6 @@ y = pos[1]
 
 pyautogui.moveTo(pos)
 while pos == (x,y):
-    print("test")
     x, y = pyautogui.position()
     pyautogui.click(x, y)
 
