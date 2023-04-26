@@ -4,7 +4,7 @@ run these commands in order to install dependencies
 pip install keyboard
 ```
 ```bash
-pip install import pyautogui
+pip install pyautogui
 ```
 
 Run the code using python 
